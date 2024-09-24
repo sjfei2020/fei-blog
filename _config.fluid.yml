@@ -44,7 +44,7 @@ footer:
   beian:
     enable: true
     # ICP证号
-#    icp_text: 苏ICP备2020059009号
+    icp_text: 000000000000
     # 公安备案号，不填则只显示ICP
     police_text:
     # 公安备案的编号，用于URL跳转查询
