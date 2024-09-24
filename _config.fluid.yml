@@ -11,11 +11,11 @@ index:
     text: "ἓν οἶδα ὅτι οὐδὲν οἶδα \n The only true wisdom is in knowing you know nothing"
 about:
   avatar: /images/avatar.png
-  name: "knight.gao"
-  intro: "奶爸·折腾·有趣的灵魂"
+  name: "Fei"
+  intro: "东南亚猛男"
   icons:
-    - { class: 'iconfont icon-github-fill', link: 'https://github.com/knightgao', tip: 'GitHub' }
-    - { class: 'iconfont icon-bilibili-fill', link: 'https://space.bilibili.com/18597307', tip: 'Bilibili' }
+#    - { class: 'iconfont icon-github-fill', link: 'https://github.com/knightgao', tip: 'GitHub' }
+#    - { class: 'iconfont icon-bilibili-fill', link: 'https://space.bilibili.com/18597307', tip: 'Bilibili' }
 
 post:
   banner_img: /images/pagebg.jpg
@@ -44,7 +44,7 @@ footer:
   beian:
     enable: true
     # ICP证号
-    icp_text: 苏ICP备2020059009号
+#    icp_text: 苏ICP备2020059009号
     # 公安备案号，不填则只显示ICP
     police_text:
     # 公安备案的编号，用于URL跳转查询
