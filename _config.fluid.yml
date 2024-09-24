@@ -8,7 +8,7 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "ἓν οἶδα ὅτι οὐδὲν οἶδα \n The only true wisdom is in knowing you know nothing"
+    text: "The only true wisdom is in knowing you know nothing"
 about:
   avatar: /images/avatar.png
   name: "Fei"
