@@ -42,9 +42,10 @@ footer:
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
   beian:
-    enable: true
+#    enable: true
+    enable: false
     # ICP证号
-    icp_text: 000000000000
+    icp_text: 2020059009号
     # 公安备案号，不填则只显示ICP
     police_text:
     # 公安备案的编号，用于URL跳转查询
