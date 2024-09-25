@@ -7,13 +7,13 @@ title: Fei技能分享
 subtitle: '我是个正经的技术网站'
 description: '偶尔专业，偶尔简单，简单又专业'
 keywords: JavaScript;TypeScript;Vue.js
-author: knight.gao
+author: IT-Fei
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.devgaoy.cn
+url: https://github.com/sjfei2020/fei-blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
