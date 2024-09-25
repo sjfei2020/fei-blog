@@ -1,5 +1,5 @@
 navbar:
-  blog_title: Fei技能分享
+  blog_title: 秋晓浦前端技能分享
 index:
   banner_img: /images/bg.jpg
   banner_img_height: 100
@@ -8,14 +8,14 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "The only true wisdom is in knowing you know nothing"
+    text: "ἓν οἶδα ὅτι οὐδὲν οἶδα \n The only true wisdom is in knowing you know nothing"
 about:
   avatar: /images/avatar.png
-  name: "Fei"
-  intro: "东南亚猛男"
+  name: "knight.gao"
+  intro: "奶爸·折腾·有趣的灵魂"
   icons:
-#    - { class: 'iconfont icon-github-fill', link: 'https://github.com/knightgao', tip: 'GitHub' }
-#    - { class: 'iconfont icon-bilibili-fill', link: 'https://space.bilibili.com/18597307', tip: 'Bilibili' }
+    - { class: 'iconfont icon-github-fill', link: 'https://github.com/knightgao', tip: 'GitHub' }
+    - { class: 'iconfont icon-bilibili-fill', link: 'https://space.bilibili.com/18597307', tip: 'Bilibili' }
 
 post:
   banner_img: /images/pagebg.jpg
@@ -42,14 +42,13 @@ footer:
   # 国内大陆服务器的备案信息
   # For Chinese mainland website policy, other areas keep disable
   beian:
-#    enable: true
-    enable: false
+    enable: true
     # ICP证号
-    icp_text: 2020059009号
+    icp_text: 苏ICP备2020059009号
     # 公安备案号，不填则只显示ICP
-    police_text:
+    police_text: 
     # 公安备案的编号，用于URL跳转查询
-    police_code:
+    police_code: 
     # 公安备案的图片. 为空时不显示备案图片
-    police_icon:
+    police_icon: 
 
