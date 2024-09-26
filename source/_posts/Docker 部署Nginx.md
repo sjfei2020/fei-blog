@@ -2,11 +2,10 @@
 title: docker部署Nginx
 date: 2024-09-24
 categories:
-  - linux
+  - linux运维
   
-tags:
-  - Tag1
-  - Tag2
+#tags:
+#  - Tag1
 
 #updated: 2023-07-12
 ---
