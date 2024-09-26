@@ -16,7 +16,7 @@ categories:
 
 首先，我们可以使用以下命令拉取 Nacos 镜像：
 
-```bash
+```
 docker pull nacos/nacos-server:v2.1.1
 ```
 
