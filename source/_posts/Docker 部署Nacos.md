@@ -90,7 +90,7 @@ docker run -d --name nacos --network host --privileged=true -e JVM_XMS=256m -e J
 docker logs naocs
 ```
 
-![image-20240926144926869](C:\Users\IT_FEI\AppData\Roaming\Typora\typora-user-images\image-20240926144926869.png)
+![image-20240926144926869](../images/linux-01.jpg)
 
 ## 注意事项
 
@@ -135,4 +135,4 @@ systemctl restart docker
 http://localhost:8848/nacos
 ```
 
-![image-20240926144959611](C:\Users\IT_FEI\AppData\Roaming\Typora\typora-user-images\image-20240926144959611.png)
+![image-20240926144959611](../images/linux-02.jpg)
