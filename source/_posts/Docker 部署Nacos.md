@@ -2,10 +2,10 @@
 title: docker部署Nacos
 date: 2024-09-26 09:46:47
 categories:
-  - linux运维
+  - 猛男运维
 
 
-#updated: 2023-07-12
+#updated: 2024-10-08
 ---
 
 # Docker 拉取 Nacos 镜像

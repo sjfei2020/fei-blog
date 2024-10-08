@@ -2,12 +2,12 @@
 title: docker部署Nginx
 date: 2024-09-24 10:08:23
 categories:
-  - linux运维
+  - 猛男运维
   
 #tags:
 #  - Tag1
 
-#updated: 2023-07-12
+#updated: 2024-10-08
 ---
 
 # 1、运行容器
