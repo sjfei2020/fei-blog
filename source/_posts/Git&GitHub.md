@@ -6,9 +6,6 @@ categories:
 #updated: 2024-10-08
 ---
 
-
-<hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
-
 ###  一、版本控制工具应该具备的功能
 
 *协同修改* ：多人并行不悖的修改服务器的同一个文档。
