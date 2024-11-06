@@ -477,7 +477,7 @@ public void test1(){
 
 ### 7.1 创建SpringBoot项目
 
-![drools01](D:\project\private\fei-blog\source\images\drools\drools01.png)
+![drools01](../images/drools/drools05.png)
 
 ### 7.2 配置和依赖
 
