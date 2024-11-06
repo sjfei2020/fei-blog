@@ -1,13 +1,13 @@
 ---
 title: Drools 规则引擎介绍
-date: 2024-10-06 10:21:04
+date: 2024-11-06 10:21:04
 categories:
   - 猛男技巧
 
 #tags:
 #  - Tag1
 
-#updated: 2024-10-06
+#updated: 2024-11-06
 ---
 
 # Drools 规则引擎介绍
