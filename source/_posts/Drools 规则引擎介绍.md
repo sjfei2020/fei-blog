@@ -34,7 +34,7 @@ Drools 主要组件：
 
 如下图所示：
 
-![drools01](D:\project\private\fei-blog\source\images\drools\drools01.png)
+![drools01](../images/drools/drools01.png)
 
 ### 2.2 相关概念说明
 
@@ -47,17 +47,17 @@ Drools 主要组件：
 
 ### 2.3  规则引擎执行过程
 
-![drools02](D:\project\private\fei-blog\source\images\drools\drools02.png)
+![drools02](../images/drools/drools02.png)
 
 ### 2.4 KIE 框架
 
 我们在操作Drools时经常使用的API以及它们之间的关系如下图：
 
-![drools03](D:\project\private\fei-blog\source\images\drools\drools03.png)
+![drools03](../images/drools/drools03.png)
 
 通过上面的核心API可以发现，大部分类名都是以Kie开头。**Kie全称为Knowledge Is Everything**，即"知识就是一切"的缩写，是Jboss一系列项目的总称。如下图所示，Kie的主要模块有OptaPlanner、Drools、UberFire、jBPM。
 
-![drools04](D:\project\private\fei-blog\source\images\drools\drools04.png)
+![drools04](../images/drools/drools04.png)
 
 通过上图可以看到，Drools是整个KIE项目中的一个组件，Drools中还包括一个Drools-WB的模块，它是一个可视化的规则编辑器。
 
