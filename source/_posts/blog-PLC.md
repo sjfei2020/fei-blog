@@ -112,7 +112,7 @@ private Map<String, String> readValuesFromDevice(SiemensS7Net siemensS7Net) {
 ```
 
 ## 三、读取结果
-![drools01](../images/plc/plc-01.jpg)
+![plc-01](../images/plc/plc-01.jpg)
 
 ## 四、破解限时配置（仅供学习参考）
 
