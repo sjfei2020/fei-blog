@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Fei技能分享
-subtitle: '我是个正经的网站'
-description: '偶尔一本正经，偶尔放飞自我，放飞中还能带点正经'
+title: 秋晓浦前端技能分享
+subtitle: '我是个正经的技术网站'
+description: '偶尔专业，偶尔简单，简单又专业'
 keywords: JavaScript;TypeScript;Vue.js
-author: IT-Fei
+author: knight.gao
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://feiblog.top
+url: https://blog.devgaoy.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: fluid  
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
